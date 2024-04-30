@@ -1,7 +1,5 @@
 ## 💜 Olá, meu nome é Paula Tommasi Sampaio!
 
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-
 Formada em administração de empresas porém meu amor pela tecnologia me fez dar o pontapé esse ano para minha transição de carreira, iniciei essa jornada com o curso de desenvolvimento de software BackEnd na Cubos Academy, no qual devo me certificar em set/24.
 Atualmente me qualificando e estudando JavaScript para retornar ao mercado neste novo desafio que eu amo.
 
